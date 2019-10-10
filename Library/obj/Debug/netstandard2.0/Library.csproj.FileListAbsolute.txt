@@ -1,0 +1,9 @@
+C:\Ostruks\MyDelegate\Library\bin\Debug\netstandard2.0\Library.deps.json
+C:\Ostruks\MyDelegate\Library\bin\Debug\netstandard2.0\Library.dll
+C:\Ostruks\MyDelegate\Library\bin\Debug\netstandard2.0\Library.pdb
+C:\Ostruks\MyDelegate\Library\obj\Debug\netstandard2.0\Library.csprojAssemblyReference.cache
+C:\Ostruks\MyDelegate\Library\obj\Debug\netstandard2.0\Library.csproj.CoreCompileInputs.cache
+C:\Ostruks\MyDelegate\Library\obj\Debug\netstandard2.0\Library.AssemblyInfoInputs.cache
+C:\Ostruks\MyDelegate\Library\obj\Debug\netstandard2.0\Library.AssemblyInfo.cs
+C:\Ostruks\MyDelegate\Library\obj\Debug\netstandard2.0\Library.dll
+C:\Ostruks\MyDelegate\Library\obj\Debug\netstandard2.0\Library.pdb

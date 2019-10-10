@@ -1,0 +1,14 @@
+C:\Ostruks\MyDelegate\MyConsole\bin\Debug\netcoreapp2.1\MyConsole.deps.json
+C:\Ostruks\MyDelegate\MyConsole\bin\Debug\netcoreapp2.1\MyConsole.runtimeconfig.json
+C:\Ostruks\MyDelegate\MyConsole\bin\Debug\netcoreapp2.1\MyConsole.runtimeconfig.dev.json
+C:\Ostruks\MyDelegate\MyConsole\bin\Debug\netcoreapp2.1\MyConsole.dll
+C:\Ostruks\MyDelegate\MyConsole\bin\Debug\netcoreapp2.1\MyConsole.pdb
+C:\Ostruks\MyDelegate\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.csprojAssemblyReference.cache
+C:\Ostruks\MyDelegate\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.csproj.CoreCompileInputs.cache
+C:\Ostruks\MyDelegate\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.AssemblyInfoInputs.cache
+C:\Ostruks\MyDelegate\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.AssemblyInfo.cs
+C:\Ostruks\MyDelegate\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.dll
+C:\Ostruks\MyDelegate\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.pdb
+C:\Ostruks\MyDelegate\MyConsole\bin\Debug\netcoreapp2.1\Library.dll
+C:\Ostruks\MyDelegate\MyConsole\bin\Debug\netcoreapp2.1\Library.pdb
+C:\Ostruks\MyDelegate\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.csproj.CopyComplete

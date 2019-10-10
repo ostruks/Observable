@@ -1,0 +1,14 @@
+C:\Ostruks\MyDelegate\ConsoleObservable\bin\Debug\netcoreapp2.1\ConsoleObservable.deps.json
+C:\Ostruks\MyDelegate\ConsoleObservable\bin\Debug\netcoreapp2.1\ConsoleObservable.runtimeconfig.json
+C:\Ostruks\MyDelegate\ConsoleObservable\bin\Debug\netcoreapp2.1\ConsoleObservable.runtimeconfig.dev.json
+C:\Ostruks\MyDelegate\ConsoleObservable\bin\Debug\netcoreapp2.1\ConsoleObservable.dll
+C:\Ostruks\MyDelegate\ConsoleObservable\bin\Debug\netcoreapp2.1\ConsoleObservable.pdb
+C:\Ostruks\MyDelegate\ConsoleObservable\bin\Debug\netcoreapp2.1\LibraryObservable.dll
+C:\Ostruks\MyDelegate\ConsoleObservable\bin\Debug\netcoreapp2.1\LibraryObservable.pdb
+C:\Ostruks\MyDelegate\ConsoleObservable\obj\Debug\netcoreapp2.1\ConsoleObservable.csprojAssemblyReference.cache
+C:\Ostruks\MyDelegate\ConsoleObservable\obj\Debug\netcoreapp2.1\ConsoleObservable.csproj.CoreCompileInputs.cache
+C:\Ostruks\MyDelegate\ConsoleObservable\obj\Debug\netcoreapp2.1\ConsoleObservable.AssemblyInfoInputs.cache
+C:\Ostruks\MyDelegate\ConsoleObservable\obj\Debug\netcoreapp2.1\ConsoleObservable.AssemblyInfo.cs
+C:\Ostruks\MyDelegate\ConsoleObservable\obj\Debug\netcoreapp2.1\ConsoleObservable.csproj.CopyComplete
+C:\Ostruks\MyDelegate\ConsoleObservable\obj\Debug\netcoreapp2.1\ConsoleObservable.dll
+C:\Ostruks\MyDelegate\ConsoleObservable\obj\Debug\netcoreapp2.1\ConsoleObservable.pdb

@@ -1,0 +1,9 @@
+C:\Ostruks\MyDelegate\LibraryObservable\bin\Debug\netstandard2.0\LibraryObservable.deps.json
+C:\Ostruks\MyDelegate\LibraryObservable\bin\Debug\netstandard2.0\LibraryObservable.dll
+C:\Ostruks\MyDelegate\LibraryObservable\bin\Debug\netstandard2.0\LibraryObservable.pdb
+C:\Ostruks\MyDelegate\LibraryObservable\obj\Debug\netstandard2.0\LibraryObservable.csprojAssemblyReference.cache
+C:\Ostruks\MyDelegate\LibraryObservable\obj\Debug\netstandard2.0\LibraryObservable.csproj.CoreCompileInputs.cache
+C:\Ostruks\MyDelegate\LibraryObservable\obj\Debug\netstandard2.0\LibraryObservable.AssemblyInfoInputs.cache
+C:\Ostruks\MyDelegate\LibraryObservable\obj\Debug\netstandard2.0\LibraryObservable.AssemblyInfo.cs
+C:\Ostruks\MyDelegate\LibraryObservable\obj\Debug\netstandard2.0\LibraryObservable.dll
+C:\Ostruks\MyDelegate\LibraryObservable\obj\Debug\netstandard2.0\LibraryObservable.pdb
